@@ -1,0 +1,61 @@
+[33mcommit 794beb418b82d2bef9ae6d04e9cfe0a0c349312d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Mon Aug 26 13:44:57 2024 -0700
+
+    J: overwrote titles.md
+
+[33mcommit eb34def703c3e8e7d5156f7f8cbe15ca81b19246[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Mon Aug 26 13:23:14 2024 -0700
+
+    I: Fear is the mind-killer.
+
+[33mcommit 95fccf57e07263e21129f21fe876bdc23056001a[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Mon Aug 26 13:08:11 2024 -0700
+
+    H: The spice must flow.
+
+[33mcommit a417435bf92d58604cf45ee0024ad178d4f7627c[m[33m ([m[1;32mupdate_titles[m[33m, [m[1;32mmain[m[33m)[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Mon Aug 26 12:24:24 2024 -0700
+
+    G: Add 'The Curious Case of Benjamin Button' to movie list
+
+[33mcommit 638a72752af8a3d3e54090fabc104c4a17ca5969[m
+Merge: 5bc8a91 db1303a
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Mon Aug 26 12:04:29 2024 -0700
+
+    Merge branch 'add_classics'
+    git commit "F: merge branch 'add_classics'
+
+[33mcommit 5bc8a91a6bdf54ab35ee146fc58b2ec917f2d96f[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Fri Aug 23 13:21:06 2024 -0700
+
+    E: Added contents to the file
+
+[33mcommit db1303a38ebf7af3981c9e06022e58995cb72f20[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Fri Aug 23 13:05:24 2024 -0700
+
+    D: Add classics.csv file
+
+[33mcommit 19d96e5e6acd843f94f3e182ccb4c97162ac15d2[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Fri Aug 23 11:44:18 2024 -0700
+
+    C: add quotes
+
+[33mcommit 67e3c06ea9a490e7e8465ece4f49badbf00d6e9c[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Fri Aug 23 11:17:51 2024 -0700
+
+    B: [i saved and staged and commented a file]
+
+[33mcommit a419be3be18c7cada0846594da0e0affeafa612a[m
+Author: trippyskippy69 <kainenboden@gmail.com>
+Date:   Thu Aug 22 12:38:28 2024 -0700
+
+    A: add contents.md
